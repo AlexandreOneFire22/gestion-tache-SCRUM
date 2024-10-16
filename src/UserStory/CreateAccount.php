@@ -66,5 +66,4 @@ class CreateAccount{
         return $user;
     }
 
-
 }
